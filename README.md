@@ -14,7 +14,7 @@ Read or watch:
 
 . [Sorting algorithms animations](https://www.toptal.com/developers/sorting-algorithms)
 
-. [15 sorting algorithms in 6 minutes] (https://www.youtube.com/watch?v=kPRA0W1kECg)
+. [15 sorting algorithms in 6 minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 
 	WARNING: The following video can trigger seizure/epilepsy. It is not required for the project, as it is only a funny visualization of different sorting algorithms
 
